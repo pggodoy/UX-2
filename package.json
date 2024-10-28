@@ -2,7 +2,7 @@
   "name": "wireframe",
   "main": "expo-router/entry",
   "version": "1.0.0",
-  "homepage": "https://pggodoy.github.io/UX-2",
+  "homepage": "https://pggodoy.github.io/",
   "scripts": {
     "start": "expo start",
     "reset-project": "node ./scripts/reset-project.js",
